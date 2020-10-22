@@ -1,0 +1,8 @@
+.body{
+    width: 100%;
+    height: fit-content;
+}
+
+.body__row{
+    display: flex;
+}
